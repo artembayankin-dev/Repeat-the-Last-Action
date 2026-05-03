@@ -5,16 +5,16 @@
 __Repeat the Last Action__ - is a plugin for Unreal Engine that lets you quickly repeat the last transform action applied to objects. 
 
 
-#Features:
+__Features:__
 - Repeat last movement
 - Repeat rotation and scaling
 - Repeat duplication with offset
 - Works with single and multiple selected actors
 - Supports chained repetition (press multiple times)
   
-#HotKey: Shift+R
+__HotKey: Shift+R__
 
-#Perfect for:
+__Perfect for:__
 
 - placing objects in a scene
 - building repeating patterns

@@ -31,4 +31,7 @@ __Duplication and scaling:__
 
 <img width="600" height="380" alt="03 Duplication and scaling" src="https://github.com/user-attachments/assets/f27a8047-a8d3-4b0d-8a62-9fa81491e61a" /><br><br>
 
+__Duplication and rotation with an offset pivot (Transform Gizmo)__
+
+<img width="600" height="381" alt="04 Duplication and rotation with an offset pivot (Transform Gizmo)" src="https://github.com/user-attachments/assets/c4c01583-d057-44c0-b5a5-38155eef0017" /><br><br>
 

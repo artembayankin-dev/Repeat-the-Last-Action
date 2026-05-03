@@ -22,6 +22,12 @@ __Single and group duplication:__
 
 <img width="600" height="380" alt="01 Single and group duplication" src="https://github.com/user-attachments/assets/4478a535-b5e1-497a-9342-5ef2962b516d" /><br><br>
 
-__Duplication and rotation:__
+__Duplication and Rotation:__
 
 <img width="600" height="417" alt="02 Duplication and Rotation" src="https://github.com/user-attachments/assets/d5a7b841-e47d-4247-b09e-08562ef365aa" /><br><br>
+
+__Duplication and scaling:__
+
+<img width="600" height="380" alt="03 Duplication and scaling" src="https://github.com/user-attachments/assets/f27a8047-a8d3-4b0d-8a62-9fa81491e61a" /><br><br>
+
+

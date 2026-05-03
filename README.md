@@ -11,7 +11,7 @@ __Features:__
 - Works with single and multiple selected actors
 - Supports chained repetition (press multiple times)
   
-__HotKey: Shift+R__
+__HotKey: Shift+R (Holding down the hotkey enables auto-repeat)__
 
 __Perfect for:__
 - placing objects in a scene

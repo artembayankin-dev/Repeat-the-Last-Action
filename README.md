@@ -20,4 +20,5 @@ __Perfect for:__
 - speeding up level design workflow
 
 __Single and group duplication:__
+
 <img width="600" height="380" alt="01 Single and group duplication" src="https://github.com/user-attachments/assets/4478a535-b5e1-497a-9342-5ef2962b516d" />

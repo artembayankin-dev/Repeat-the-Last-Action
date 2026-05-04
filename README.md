@@ -38,3 +38,5 @@ __Duplication and rotation with an offset pivot (Transform Gizmo)__
 __How to use:__
 Select an object, duplicate it, and change the rotation, position, and scale if necessary. Press the key combination __Shift + R__ and the previous operation will be repeated. 
 Hold __Shift + R__ and turn on auto-repeat.
+
+__Download:__
